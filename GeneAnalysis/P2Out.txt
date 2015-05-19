@@ -1,0 +1,11 @@
+Fall 2014  cmps 161A3.00
+Fall 2014  engl 101B3.00
+Fall 2014  math 200C5.00
+Fall 2014  hist 101A3.00
+Spring 2015cmps 280A3.00
+Spring 2015engl 102A3.00
+Spring 2015math 201A5.00
+Summer 2015biol 121A3.00
+Summer 2015biol 123B1.00
+Fall 2015  cmps 285B3.00
+Fall 2015  cmps 267B3.00
